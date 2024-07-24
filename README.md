@@ -1,2 +1,2 @@
-# react.app
-practice
+# React practice
+
